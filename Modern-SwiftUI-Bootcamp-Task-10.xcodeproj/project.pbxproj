@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		7C156D182E83F303001D3F00 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7C156D172E83F303001D3F00 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		7C08F64B2E7BFA91009F9814 /* Modern-SwiftUI-Bootcamp-Task-10.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Modern-SwiftUI-Bootcamp-Task-10.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C156D172E83F303001D3F00 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +39,7 @@
 			children = (
 				7C08F64D2E7BFA91009F9814 /* Modern-SwiftUI-Bootcamp-Task-10 */,
 				7C08F64C2E7BFA91009F9814 /* Products */,
+				7C156D172E83F303001D3F00 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C156D182E83F303001D3F00 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
